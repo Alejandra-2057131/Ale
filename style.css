@@ -52,11 +52,11 @@ p{
     background-image: url("img/Banner2.png");
     background-size: cover;
     padding-top: 90px;
-    min-height: 700px;
+    min-height: 550px;
     color: black;
 }
 #quienes{
-    min-height: 700px;
+    min-height: 500px;
     color: black;
 }
 .content-izquierda{
@@ -86,7 +86,7 @@ p{
     text-align: end;
 }
 #equipo{
-    min-height: 700px;
+    min-height: 570px;
     color: black;
 }
 .cur{
@@ -116,7 +116,7 @@ p{
     font-size: 50px;
 }
 #tips{
-    min-height: 700px;
+    min-height: 350px;
     color: black;
 }
 .tip{
